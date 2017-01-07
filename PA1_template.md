@@ -24,7 +24,7 @@ install.packages("dplyr", repos="http://cran.rstudio.com/")
 ```
 ## 
 ## The downloaded binary packages are in
-## 	/var/folders/8r/swv1rlqs4d94jr9rqd8zl7cr0000gn/T//RtmpGFFB8Z/downloaded_packages
+## 	/var/folders/8r/swv1rlqs4d94jr9rqd8zl7cr0000gn/T//Rtmp1uJURR/downloaded_packages
 ```
 
 ```r
@@ -175,7 +175,7 @@ install.packages("lattice", repos="http://cran.rstudio.com/")
 ```
 ## 
 ## The downloaded binary packages are in
-## 	/var/folders/8r/swv1rlqs4d94jr9rqd8zl7cr0000gn/T//RtmpGFFB8Z/downloaded_packages
+## 	/var/folders/8r/swv1rlqs4d94jr9rqd8zl7cr0000gn/T//Rtmp1uJURR/downloaded_packages
 ```
 
 ```r
